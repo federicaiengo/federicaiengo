@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Federica Iengo
 
-<!--
-**federicaiengo/federicaiengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Data Analysis | SQL | Excel | Business Reporting | Process Improvement*
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am developing practical expertise in data analysis through hands-on projects focused on SQL, Excel, data quality and business reporting.
+
+I enjoy transforming raw data into structured, reliable information that supports informed business decisions. My goal is to build efficient, data-driven solutions through analytical thinking, attention to detail and continuous learning.
+
+## Core Skills
+
+- SQL
+- Microsoft Excel
+- Data Analysis
+- Data Cleaning
+- Data Quality
+- Business Reporting
+- KPI Reporting
+- Data Validation
+- Documentation
+- Process Improvement
+
+## Certifications
+
+- Cisco Networking Academy – Introduction to Data Science
+- Federica Web Learning – Le basi della Scienza dei dati
+
+## Current Focus
+
+- SQL for Data Analysis
+- Advanced Excel
+- Business Reporting
+- Data Quality
+- Building practical analytics projects
+
+## Featured Projects
+
+Projects in this portfolio focus on practical business scenarios involving SQL, Excel, reporting and data quality.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/federicaiengo
